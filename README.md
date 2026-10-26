@@ -249,3 +249,12 @@ As an AI Engineer fresher, explain the project by highlighting your engineering 
 
 ## License
 MIT License. Created for the SkillWallet AI Engineering Portfolio.
+
+## 🎥 Demo Video
+
+[Watch Food Verse AI Demo](https://drive.google.com/file/d/1SPeKj-HuvtC8kKR9cuTpgNZ2y6zV4-NT/view?usp=drivesdk)
+
+## 🌐 Live Demo
+
+https://food-verse-ai-1-stmn.onrender.com
+
