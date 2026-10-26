@@ -1,0 +1,21 @@
+{
+  "name": "food-verse-ai",
+  "version": "1.0.0",
+  "description": "Multimodal Food Intelligence Agent - AI/ML Engineering Portfolio",
+  "scripts": {
+    "dev:frontend": "npm --prefix frontend run dev",
+    "build:frontend": "npm --prefix frontend run build",
+    "test:backend": "python -m pytest backend/tests -v"
+  },
+  "keywords": [
+    "multimodal",
+    "ai",
+    "computer-vision",
+    "food-intelligence",
+    "fastapi",
+    "react",
+    "gemini"
+  ],
+  "author": "AI/ML Engineering Student",
+  "license": "MIT"
+}
